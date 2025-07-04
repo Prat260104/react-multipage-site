@@ -16,11 +16,14 @@ A modern, responsive **multi-page website** built using **React** and **React Ro
 
 ## 🛠️ Tech Stack
 
-- **React** (with `create-react-app` or Vite)
-- **React Router DOM**
-- **Tailwind CSS**
-- **JavaScript (ES6+)**
-- **HTML5 & CSS3**
+| Tool              | Purpose                            |
+|-------------------|-------------------------------------|
+| **React**         | Frontend framework                  |
+| **React Router**  | Client-side routing                 |
+| **Tailwind CSS**  | Utility-first CSS framework         |
+| **Vite**          | Fast build tool & dev environment   |
+| **JavaScript**    | Language                            |
+| **HTML5 + CSS3**  | Structure & basic styling           |
 
 ---
 
