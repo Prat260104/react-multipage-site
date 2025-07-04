@@ -25,7 +25,30 @@ A modern, responsive **multi-page website** built using **React** and **React Ro
 | **JavaScript**    | Language                            |
 | **HTML5 + CSS3**  | Structure & basic styling           |
 
+
 ---
 
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Prat260104/react-multipage-site.git
+cd react-multipage-site
+```
+
+---
+
+### 2 Install Dependencies
+```bash
+npm install
+```
+
+---
+
+### 3.Start Development Server
+```bash
+npm run dev
+```
 
 
